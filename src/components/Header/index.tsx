@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-import { HeaderSite } from "./styles"
+import { HeaderSite } from "./style"
 
 export default function Header() {
     return (
