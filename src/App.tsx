@@ -1,9 +1,8 @@
-import { useState, useEffect } from 'react'
 import RoutesApp from './routes';
 import { Container } from './style/styles'
 
 
-function App() {
+export function App() {
 
   return (
     <Container>
@@ -12,4 +11,4 @@ function App() {
   );
 }
 
-export default App;
+
