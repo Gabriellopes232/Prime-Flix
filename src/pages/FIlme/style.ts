@@ -32,6 +32,7 @@ export const ContainerSite = styled.div`
         padding:12px;
         border-radius:4px;
         cursor:pointer;
+        transition:0.5s;
     }
     button:hover{
         background-color:brown;
